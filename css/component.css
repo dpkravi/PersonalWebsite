@@ -22,10 +22,10 @@
 
 
 
-@font-face {
-	font-family: 'DancingBold'; /*a name to be used later*/
-	src: url(../fonts/DancingScript-Bold.ttf); /*URL to font*/
-}
+/*@font-face {*/
+	/*font-family: 'DancingBold'; !*a name to be used later*!*/
+	/*src: url(../fonts/DancingScript-Bold.ttf); !*URL to font*!*/
+/*}*/
 
 @font-face {
 	font-family: 'DancingRegular'; /*a name to be used later*/
@@ -236,10 +236,10 @@ html, body, .container, .header {
 .title h1 {
 	padding: 0 0 0.2em;
 	color: #fff;
-	font-weight: 800;
+	font-weight: 700;
 	font-size: 3.25em;
 	margin: 0 auto;
-	font-family: DancingBold;
+	font-family: "Dancing Script", cursive;
 }
 
 .title h2 {
