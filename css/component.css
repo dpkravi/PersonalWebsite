@@ -176,7 +176,7 @@ html, body, .container, .header {
 	bottom: 0;
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
-	background: url(../img/alps.jpg) no-repeat center center fixed;
+	background: url(../img/alps.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -367,6 +367,7 @@ button.trigger span::before {
 .education, .skills{
 	background-color: #91AA9D;
 }
+
 
 .education>div>span{
 	color: #0f0f0f;
